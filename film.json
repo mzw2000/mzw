@@ -1,5 +1,4 @@
 {
-"film": [
     {
         "id":1,
         "name":"泰坦尼克号",
@@ -210,5 +209,4 @@
         "picurl":"http://img.uuwtq.com/uploads/i_2_4294284326x1827719680_26.jpg",
         "date":"2015-04"
     },
-]
 }
