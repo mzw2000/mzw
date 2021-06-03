@@ -1,52 +1,15 @@
 {
-  "imgListData": [
+  "film": [
     {
-      "id": "1",
-      "title": "标题描述",
-      "content": "内容描述 ",
-      "city": "详细地址",
-      "adrs": "上海",
-      "room": "楼房描述",
-      "imgUrl": "https://upload-images.jianshu.io/upload_images/13570975-792453585d7b84af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
-      "dataTimes": "时间",
-      "peo": "姓名",
-      "tel": "手机号",
-      "pho": "照片地址",
-      "money": "价格",
-      "unitprice": "单价",
-      "tag": [
-        {
-          "tags": "标签一"
-        },{
-          "tags": "标签七"
-        },{
-          "tags": "标签八"
-        }
-      ]
+      "name": "死侍",
+      "picurl": "https://img2.askpanda.cc/ask/movie/6378/6378-dm212016052303600_wu400.jpg"
     },
     {
-      "id": "2",
-      "title": "标题描述",
-      "content": "内容描述 ",
-      "city": "详细地址",
-      "adrs": "上海",
-      "room": "楼房描述",
-      "imgUrl": "https://upload-images.jianshu.io/upload_images/13570975-792453585d7b84af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
-      "dataTimes": "时间",
-      "peo": "姓名",
-      "tel": "手机号",
-      "pho": "照片地址",
-      "money": "价格",
-      "unitprice": "单价",
-      "tag": [
-        {
-          "tags": "标签二"
-        },{
-          "tags": "标签六"
-        },{
-          "tags": "标签七"
-        }
-      ]
-    }
+      "name": "肖申克救赎",
+      "picurl": "https://img2.askpanda.cc/ask/movie/9471/9471-dm820160526224407_wu400.jpg"
+    },
+    {
+      "name": "玩具总动员3",
+      "picurl": "https://img2.askpanda.cc/ask/movie/9627/9627-dm12016052763518_wu400.jpg"
   ]
 }
